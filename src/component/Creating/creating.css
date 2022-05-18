@@ -1,0 +1,24 @@
+.creating-p{
+    font-size: 12px;
+    width: 90%;
+}
+.left-create{
+    padding: 12px 14px;
+    background: linear-gradient(to right, rgba(195, 57, 63, 76%) 0%, rgba(195, 57, 63, 90%) 25%);
+    border-bottom-right-radius: 10px;
+    font-size: 13px;
+    width: 230px;
+    color: white;
+    margin-top: 20px;
+}
+
+.right-create{
+    padding: 12px 14px;
+    background: #3F3D56;
+    border-bottom-right-radius: 10px;
+    font-size: 13px;
+    width: 230px;
+    color: white;
+    margin-top: 20px;
+
+}

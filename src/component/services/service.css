@@ -1,0 +1,12 @@
+.services{
+
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    box-shadow: 3px 5px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    overflow: hidden;
+}
+/* .services img{
+    margin: auto;
+} */

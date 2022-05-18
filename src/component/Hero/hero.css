@@ -1,0 +1,32 @@
+.hero{
+    background-image: url('../../assets/hero.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+.hero-container {
+    padding-top: 12rem;
+
+}
+.hero h1{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.buttons {
+    margin-top: 30px;
+}
+.hero-p{
+    margin-top: 30px;
+
+}
+.hero-cta {
+    font-size: 12px;
+    background-color: #3F3D56;
+    color: white;
+    padding: 11px 22px;
+    border-radius: 10px;
+    
+}
+.hero-cta:hover{
+    background-color: #025FDB;
+}
