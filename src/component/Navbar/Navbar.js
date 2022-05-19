@@ -5,16 +5,16 @@ import Logo from '../../assets/logo.png'
 
 function Navbar() {
   return (
-    <div className='main-nav'>
+    <div className='main-nav container'>
       
       <header className='container'>
           <img className='logo' src={Logo} alt='logo'/>
           <nav>
-            <ul className='Nav_links'>
-              <li><a href='#'>Home</a></li>
-              <li><a href='#'>About Us</a></li>
-              <li><a href='#'>Services</a></li>
-              <li><a href='#'>Projects</a></li>
+            <ul className='Nav_links my-auto'>
+              <li>Home</li>
+              <li>About Us</li>
+              <li>Services</li>
+              <li>Projects</li>
             </ul>
           </nav>
           <a className='cta' href='#'><button>Contact Us</button></a>

@@ -5,7 +5,7 @@ import './faq.css'
 
 function Faq() {
   return (
-    <div className='container pt-10 mt-10 pb-10'>
+    <div className='container py-12'>
         <h1 className='text-4xl font-bold text-center'>Frequently Asked Questions</h1>
         <p className='text-center text-base w-85 font-medium pt-2'>Rorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
         <div className='flex'>

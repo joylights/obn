@@ -15,19 +15,19 @@ const Services = () => {
             <div className='services pt-14 pb-10'>
                 <img className='mx-auto ' src={It} alt='it'/>
                 <h2 className='text-2xl pt-2'>IT Solution</h2>
-                <p className='pt-2'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua  dolor sit amet, consectetur adipiscing elit,.</p>
+                <p className='pt-2 font-light px-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua  dolor sit amet, consectetur adipiscing elit,.</p>
             </div>
 
             <div className='services pt-14'>
                 <img className='mx-auto ' src={Web} alt='it'/>
                 <h2 className='text-2xl pt-2'>Web Development</h2>
-                <p className='pt-2'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua  dolor sit amet, consectetur adipiscing elit,.</p>
+                <p className='pt-2 font-light px-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua  dolor sit amet, consectetur adipiscing elit,.</p>
             </div>
 
             <div className='services pt-14'>
                 <img className='mx-auto ' src={Networking} alt='it'/>
                 <h2 className='text-2xl pt-2'>Networking Services</h2>
-                <p className='pt-2'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua  dolor sit amet, consectetur adipiscing elit,.</p>
+                <p className='pt-2 font-light px-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua  dolor sit amet, consectetur adipiscing elit,.</p>
             </div>
 
             

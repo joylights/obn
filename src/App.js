@@ -5,6 +5,9 @@ import Hero from './component/Hero/Hero';
 import Navbar from './component/Navbar/Navbar'
 import Services from './component/services/Services';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Team from './component/Team/Team';
+import Contact from './component/Contact/Contact';
+import Transform from './component/Transform/Transform';
 
 function App() {
   return (
@@ -14,6 +17,9 @@ function App() {
       <Services/>
       <Creating/>
       <Faq/>
+      <Team/>
+      <Contact/>
+      <Transform/>
     </div>
   );
 }

@@ -1,0 +1,8 @@
+.transform{
+    background-image: url('../../assets/transform.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+    color: white;
+
+}

@@ -7,6 +7,10 @@ header{
     font-size: 13px;
     overflow: hidden;
 }
+a {
+    color: #262626;
+    text-decoration: none;
+}
 .main-nav{
     box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.08);
 }
@@ -21,6 +25,7 @@ nav ul{
 }
 nav ul li{
     padding: 0 10px;
+    list-style: none;
 }
 .logo {
     width: 200px

@@ -1,0 +1,16 @@
+.address{
+    width: 282px;
+    height: 131px;
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.25);
+    border-right: 5px solid #C3393F;
+}
+
+.call{
+    width: 282px;
+    height: 131px;
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.25);
+    border-left: 5px solid #C3393F;
+}
+.shadow{
+    background: #C3393F;
+}
